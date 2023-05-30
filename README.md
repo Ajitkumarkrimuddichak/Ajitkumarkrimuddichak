@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitkumarkrimuddinchak&label=Profile%20views&color=0e75b6&style=flat" alt="ajitkumarkrimuddinchak" /> </p>
 
-- 🔭 I’m currently working on **HRI And KDA**
+- 🔭 I’m currently working on **HRI And KDA Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajitkumarkrimuddichak](https://github.com/Ajitkumarkrimuddichak)
 
-- 📫 How to reach me **ajitkumar10897@gmail.com**
+- 📫 How to reach me **kumarajit10897@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
