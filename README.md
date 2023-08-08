@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajit Kumar</h1>
-<h2 align="center">A passionate MERN Developer from India</h2>
+<h2 align="center" style=color:red;>A Passionate MERN Developer from India</h2>
 
 <img align="right" alt="coding" width="400" src="https://d27jswm5an3efw.cloudfront.net/app/uploads/2019/07/insert-image-html.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitkumarkrimuddinchak&label=Profile%20views&color=0e75b6&style=flat" alt="ajitkumarkrimuddinchak" /> </p>
