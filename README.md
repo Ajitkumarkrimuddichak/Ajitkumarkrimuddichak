@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ajit-kumar-560604220/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5603AQE2N2jzfErcBQ/profile-displayphoto-shrink_200_200/0/1673297738880?e=1697068800&v=beta&t=O00wfGpqFM-rw5UpeaItUETisD4WDVjDpR__7CVilLQ" alt="Ajit kumar" height="80" width="80" /> Linkedin click</a>
+<a href="https://www.linkedin.com/in/ajit-kumar-560604220/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5603AQE2N2jzfErcBQ/profile-displayphoto-shrink_200_200/0/1673297738880?e=1697068800&v=beta&t=O00wfGpqFM-rw5UpeaItUETisD4WDVjDpR__7CVilLQ" alt="Ajit kumar" height="80" width="80" />🔗 Linkedin click</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
