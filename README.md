@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ajitkumarkrimuddichak](https://github.com/Ajitkumarkrimuddichak)
 
-- 📫 How to reach me **kumarajit10897@gmail.com**
+- 📧 <h2> How to reach me :- kumarajit10897@gmail.com</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
