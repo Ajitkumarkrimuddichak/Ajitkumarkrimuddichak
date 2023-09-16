@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://www.codica.com/static/62bd7513f767b67cf125f080407fa663/380f6/Java_Script_b21e2cb4c1.jpg" alt="ajitkumarkrimuddinchak"  width="300px"/></p>
 
-<p>&nbsp;<img align="center" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="ajitkumarkrimuddinchak" width="300px"/></p>
+<p>&nbsp;<img align="center" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" alt="ajitkumarkrimuddinchak" width="350px"/></p>
 
 
